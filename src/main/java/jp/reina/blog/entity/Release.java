@@ -2,6 +2,7 @@ package jp.reina.blog.entity;
 
 import java.util.Date;
 
+import jp.reina.blog.common.BaseEntity;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.experimental.Accessors;
